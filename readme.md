@@ -1,7 +1,7 @@
 # Quality Assurance Engineer Challenge - Java
 
 ## Problem Description:
-Test a RESTful API for a patient management system. The codebase can be found at this [GitHub repository](URL).
+Test a RESTful API for a patient management system. The codebase can be found at this GitHub repository
 
 ## Requirements:
 1. Clone the repository and set up the application.
